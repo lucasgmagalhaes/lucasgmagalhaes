@@ -20,6 +20,7 @@ I like C#, Typescript, Dota 2 (sometimes I hate), gym, beer, eletronic music and
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio" width="26px" src="./img/vs_logo.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
@@ -31,3 +32,20 @@ I like C#, Typescript, Dota 2 (sometimes I hate), gym, beer, eletronic music and
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+
+### Connect with me:
+
+[<img align="left" alt="Linkedin" width="30px" src="./img/linkedin.svg" />][linkedin]
+[<img align="left" alt="Spotify" width="30px" src="./img/spotify.svg" />][spotify]
+[<img align="left" alt="Steam" width="30px" src="./img/steam.png" />][steam]
+[<img align="left" alt="Soundcloud" width="30px" src="./img/soundcloud.png.png" />][soundcloud]
+
+<br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/lucasg-magalhaes/
+[spotify]: https://open.spotify.com/user/q8sa4pbal7muopv48coaiyn9i
+[steam]: https://steamcommunity.com/id/sieshow/
+[soundcloud]: https://soundcloud.com/lucas-magalhaes-460948484
