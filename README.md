@@ -51,14 +51,3 @@ I like C#, Typescript, gym, beer, electronic music.
 [spotify]: https://open.spotify.com/user/q8sa4pbal7muopv48coaiyn9i
 [steam]: https://steamcommunity.com/id/sieshow/
 [soundcloud]: https://soundcloud.com/lucas-magalhaes-460948484
-
-
-### 🗣 My activity:
-
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
----
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
