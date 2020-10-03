@@ -41,7 +41,7 @@ I like C#, Typescript, Dota 2 (sometimes I hate), gym, beer, eletronic music and
 [<img align="left" alt="Linkedin" width="30px" src="./img/linkedin.svg" />][linkedin]
 [<img align="left" alt="Spotify" width="30px" src="./img/spotify.svg" />][spotify]
 [<img align="left" alt="Steam" width="30px" src="./img/steam.png" />][steam]
-[<img align="left" alt="Soundcloud" width="30px" src="./img/soundcloud.png" />][soundcloud]
+[<img align="left" alt="Soundcloud" width="30px" src="./img/soundcloud_v1.png.png" />][soundcloud]
 
 <br />
 <br />
