@@ -1,5 +1,9 @@
-Hi there, I'm Lucas 👋  
-I like C#, Typescript, Dota 2 (sometimes I hate), gym, beer, eletronic music and rock.   
+<img align="center" alt="" src="./img/bioshock.jpg"/>
+
+
+## Hi there, I'm Lucas 👋  
+
+I like C#, Typescript, gym, beer, electronic music.   
 
 <br />
 
