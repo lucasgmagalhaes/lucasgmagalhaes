@@ -1,16 +1,22 @@
-<p align="center">
-  <samp>
-     Hi there, I'm Lucas 👋
-    <br><br>
-    I like C#, Typescript, Dota 2 (sometimes I hate), gym, beer, eletronic music and rock.
-    <br><br>
-    That is it. 
-    <br><br>
-  </samp>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgmagalhaes&show_icons=true" width="50%">
-</p>
+Hi there, I'm Lucas 👋  
+I like C#, Typescript, Dota 2 (sometimes I hate), gym, beer, eletronic music and rock.   
 
-<br/>
+<br />
+<br />
+
+<img align="left" width="435px" height="203px" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasgmagalhaes&show_icons=true&count_private=true&theme=tokyonight" />
+
+<img align="right" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgmagalhaes&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### Languages and Tools:
 
