@@ -1,6 +1,3 @@
-<img align="center" alt="" src="./img/bioshock.jpg"/>
-
-
 ## Hi there, I'm Lucas 👋  
 
 I like C#, Typescript, gym, beer, electronic music.   
