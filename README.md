@@ -4,9 +4,9 @@ I like C#, Typescript, Angular, Flutter, gym, beer, electronic music and other t
 
 <br />
 
-<img align="left" width="435px" height="203px" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasgmagalhaes&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="left" width="435px" height="203px" alt="Lucas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasgmagalhaes&show_icons=true&count_private=true&theme=tokyonight" />
 
-<img align="right" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgmagalhaes&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="right" alt="Lucas's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgmagalhaes&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
 
 <br />
 <br />
