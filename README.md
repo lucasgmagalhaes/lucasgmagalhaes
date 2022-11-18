@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas 👋  
 
-I like C#, Typescript, Angular, Flutter, gym, beer, electronic music and other things.
+I like C#, Typescript, Angular, gym, beer, electronic music and other things.
 
 <br />
 
