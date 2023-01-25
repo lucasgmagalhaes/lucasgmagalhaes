@@ -2,21 +2,6 @@
 
 I like C#, Typescript, Angular, gym, beer, electronic music and other things.
 
-<br />
-
-<img align="left" width="435px" height="203px" alt="Lucas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasgmagalhaes&show_icons=true&count_private=true&theme=tokyonight" />
-
-<img align="right" alt="Lucas's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgmagalhaes&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ### Languages and Tools:
 
